@@ -1,1 +1,1 @@
-# Microprocessor_based_automatic_door_opener
+This project proposes a system of automatic opening and closing of door by found any body movement near the door. The Certain specifications, parameters, and strategies of implem- entation ought to be regarded in system design and construction in order to provide the anticipated result. The implementation of the diagram includes segmenting the overall system design into modules, which are individually designed and examined earlier than the integration of the various subsystems. 
